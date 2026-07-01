@@ -14,7 +14,7 @@ An all-in-one download tool for Windows with a tkinter GUI. Download videos from
 - **Standalone EXE** — Can be built as a single-file Windows executable via PyInstaller
 
 ## Screenshots
-![Screenshot](screenshot.jgp)
+![Screenshot](screenshot.jpg)
 
 ## Requirements (for running from source)
 
