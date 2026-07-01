@@ -55,7 +55,7 @@ The output EXE will be at `dist/AIscanDownloader.exe`.
 
 ### Download the pre-built EXE
 
-Grab the latest release from the [Releases page]((https://github.com/juverofan/Nham-AIO-Downloader/releases)) — no Python installation needed.
+Grab the latest release from the [Releases page](https://github.com/juverofan/Nham-AIO-Downloader/releases) — no Python installation needed.
 
 ## How it works
 
