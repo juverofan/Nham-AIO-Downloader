@@ -1,5 +1,6 @@
-yt-dlp>=2024.12.0
+yt-dlp>=2025.6.30
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 fpdf2>=2.7.0
 ebooklib>=0.18
+Pillow>=10.0.0
